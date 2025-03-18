@@ -4,4 +4,4 @@
 
 ## MBTI
 
-- INTP
+- ESTJ
